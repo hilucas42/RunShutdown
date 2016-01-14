@@ -1,0 +1,8 @@
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\bin\Debug\RunShutdown.exe.config
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\bin\Debug\RunShutdown.exe
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\bin\Debug\RunShutdown.pdb
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\obj\Debug\RunShutdown.csprojResolveAssemblyReference.cache
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\obj\Debug\RunShutdown.Properties.Resources.resources
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\obj\Debug\RunShutdown.csproj.GenerateResource.Cache
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\obj\Debug\RunShutdown.exe
+D:\Arquivos\Documentos\Visual Studio 2013\Projects\RunShutdown\RunShutdown\obj\Debug\RunShutdown.pdb
